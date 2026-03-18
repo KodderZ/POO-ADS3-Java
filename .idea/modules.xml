@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArCondicionado/ArCondicionado.iml" filepath="$PROJECT_DIR$/ArCondicionado/ArCondicionado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Associacao-TodoParte/Associacao-TodoParte.iml" filepath="$PROJECT_DIR$/Associacao-TodoParte/Associacao-TodoParte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estrutura de dados/Estrutura de dados.iml" filepath="$PROJECT_DIR$/Estrutura de dados/Estrutura de dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO-Main.iml" filepath="$PROJECT_DIR$/POO-Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sistema De Drone/Sistema De Drone.iml" filepath="$PROJECT_DIR$/Sistema De Drone/Sistema De Drone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica_e_algoritimo/logica_e_algoritimo.iml" filepath="$PROJECT_DIR$/logica_e_algoritimo/logica_e_algoritimo.iml" />
     </modules>
   </component>
 </project>
