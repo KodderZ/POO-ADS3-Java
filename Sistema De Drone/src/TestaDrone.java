@@ -4,7 +4,7 @@ public class TestaDrone {
 
         Drone d1 = new Drone();
 
-        System.out.println("=== TESTE DO DRONE ===");
+        System.out.println("Momento de Testagem...\n");
 
         d1.setBateria(150);
 
@@ -16,10 +16,10 @@ public class TestaDrone {
 
         d1.descer(5);
 
-        d1.subir(200);
+        d1.subir(100);
 
         d1.descer(50);
 
-        System.out.println("=== FIM DO TESTE ===");
+        System.out.println("\n Testagem concluída!");
     }
 }

@@ -15,34 +15,34 @@ public class ArCondicionado {
         this.ligado = ligado;
     }
 
-    public void setTemperatura(int t) {
-        if (t >= 16 && t <= 30) {
-            this.temperatura = t;
+    public void setTemperatura(int temp) {
+        if (temp >= 16 && temp <= 30) {
+            this.temperatura = temp;
         } else {
-            System.out.println("Temperatura fora da faixa");
+            System.out.println("Temperatura fora do limite");
         }
     }
 
-    public void setMarca(String m) {
-        if (m != null && m.trim().length() >= 3) {
-            this.marca = m;
+    public void setMarca(String brand) {
+        if (brand != null && brand.trim().length() >= 3) {
+            this.marca = brand;
         } else {
-            System.out.println("Marca deve ter pelo menos 3 caracteres");
+            System.out.println("O nome da marca possui menos de 3 letras.");
         }
+    }
+
+    private boolean verificarCompressor() {
+        double NMR = Math.random() * 5;
+        return NMR > 2;
     }
 
     public void ativarModoTurbo() {
         if (verificarCompressor()) {
             setTemperatura(16);
-            System.out.println("Modo turbo ativado!");
+            System.out.println("Ok");
         } else {
-            System.out.println("Falha técnica no compressor.");
+            System.out.println("Compressor com falha");
         }
-    }
-
-    private boolean verificarCompressor() {
-        double numero = Math.random() * 5;
-        return numero > 2;
     }
 
     @Override
