@@ -4,10 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ArCondicionado/ArCondicionado.iml" filepath="$PROJECT_DIR$/ArCondicionado/ArCondicionado.iml" />
       <module fileurl="file://$PROJECT_DIR$/Associacao-TodoParte/Associacao-TodoParte.iml" filepath="$PROJECT_DIR$/Associacao-TodoParte/Associacao-TodoParte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisao Associacao Todo-Parte/Clinica/Clinica.iml" filepath="$PROJECT_DIR$/Revisao Associacao Todo-Parte/Clinica/Clinica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisão de Associação Todo-Parte/ClinicaMedica/ClinicaMedica.iml" filepath="$PROJECT_DIR$/Revisão de Associação Todo-Parte/ClinicaMedica/ClinicaMedica.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesenvolvedorHeranca/DesenvolvedorHeranca.iml" filepath="$PROJECT_DIR$/DesenvolvedorHeranca/DesenvolvedorHeranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Estrutura de dados/Estrutura de dados.iml" filepath="$PROJECT_DIR$/Estrutura de dados/Estrutura de dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO-Main.iml" filepath="$PROJECT_DIR$/POO-Main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Revisao Associacao Todo-Parte/Revisao Associacao Todo-Parte.iml" filepath="$PROJECT_DIR$/Revisao Associacao Todo-Parte/Revisao Associacao Todo-Parte.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sistema De Drone/Sistema De Drone.iml" filepath="$PROJECT_DIR$/Sistema De Drone/Sistema De Drone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SistemaEscolar/SistemaEscolar.iml" filepath="$PROJECT_DIR$/SistemaEscolar/SistemaEscolar.iml" />
       <module fileurl="file://$PROJECT_DIR$/logica_e_algoritimo/logica_e_algoritimo.iml" filepath="$PROJECT_DIR$/logica_e_algoritimo/logica_e_algoritimo.iml" />
     </modules>
   </component>

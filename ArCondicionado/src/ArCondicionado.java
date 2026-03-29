@@ -23,6 +23,7 @@ public class ArCondicionado {
         }
     }
 
+
     public void setMarca(String brand) {
         if (brand != null && brand.trim().length() >= 3) {
             this.marca = brand;
